@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>BIT Team1 Spring</title>
+<title>BIT Spring Example</title>
 </head>
 <body>
 	<h3>Spring</h3>
 	스프링의 시작 
-	${serverTime }<br>
+	${serverTime}<br>
 	
 	<hr>
 	<a href="emp/list">EMP 목록 </a><br>
